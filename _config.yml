@@ -113,3 +113,9 @@ deploy:
   repo: https://github.com/HydroRoll-Team/typography
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+
+readmeConfig:
+  postsHeader: '## posts/eassys' # headers, support markdown
+  sort: 'desc' # posts display sort: 'desc' or 'acs'. The default option is 'desc'
+  groupType: 'month' # 'month' or 'year' or 'none'. The default option is 'month' 
