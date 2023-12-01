@@ -859,7 +859,7 @@
     "align-text" "^0.1.3"
     "lazy-cache" "^1.0.3"
 
-"chalk@^4.0.2":
+"chalk@^4", "chalk@^4.0.2":
   "integrity" "sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA=="
   "resolved" "https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz"
   "version" "4.1.2"
@@ -2443,6 +2443,13 @@
   "version" "1.0.4"
   dependencies:
     "cache-hash" "^1.0.0-beta.10"
+
+"hexo-hide-posts@^0.4.0":
+  "integrity" "sha512-qSdCoNG2FRxX/7TKJHPINOK/KbfaqqMgT1LHNAYPN1P0MgL187b0A6sCduevoIMlN0i/xK0yNlS/UDRQwVdZGw=="
+  "resolved" "https://registry.npmjs.org/hexo-hide-posts/-/hexo-hide-posts-0.4.0.tgz"
+  "version" "0.4.0"
+  dependencies:
+    "chalk" "^4"
 
 "hexo-i18n@^2.0.0":
   "integrity" "sha512-dkUXecEtChaQMdTHN4WR13c8GwKqjbSOZPJS9qDqV6Ebnb77Wa/nQzWFckhP0dCps3a9lUQBd8hYGOMbOosiQQ=="
