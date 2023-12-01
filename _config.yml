@@ -8,7 +8,9 @@ subtitle: ''
 description: ''
 keywords:
 author: Hsiang Nianian
-language: en
+language: 
+  - zh-tw
+  - en
 timezone: ''
 
 # URL
