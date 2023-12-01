@@ -144,3 +144,10 @@ readmeConfig:
   use_tag_slug: false      # Use slug for filename of tag data
   post: true               # 文章数据
   pages: false             # 额外的 Hexo 页面数据, 如 About
+
+
+# Hexo-hash
+# https://github.com/Lete114/Hexo-hash
+hash:
+  enable: true                              # 是否启用
+  # 更多配置信息请看: https://github.com/Lete114/cache-hash
