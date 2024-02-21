@@ -2089,9 +2089,9 @@ hexo-hash@^1.0.4:
   dependencies:
     cache-hash "^1.0.0-beta.10"
 
-hexo-hide-posts@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.npmjs.org/hexo-hide-posts/-/hexo-hide-posts-0.4.0.tgz"
+hexo-hide-posts@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/hexo-hide-posts/-/hexo-hide-posts-0.4.2.tgz#666edd519a3d782b600bee452f2167ef6703906c"
   dependencies:
     chalk "^4"
 
